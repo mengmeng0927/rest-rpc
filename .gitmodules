@@ -1,3 +1,6 @@
 [submodule "rest-rpc-core"]
 	path = rest-rpc-core
 	url = git@github.com:mengmeng0927/rest-rpc-core.git
+[submodule "rest-rpc-play"]
+	path = rest-rpc-play
+	url = git@github.com:mengmeng0927/rest-rpc-play.git
