@@ -7,3 +7,6 @@
 [submodule "rest-rpc-sample"]
 	path = rest-rpc-sample
 	url = git@github.com:mengmeng0927/rest-rpc-sample.git
+[submodule "project/sbt-rest-rpc"]
+	path = project/sbt-rest-rpc
+	url = git@github.com:mengmeng0927/sbt-rest-rpc.git
